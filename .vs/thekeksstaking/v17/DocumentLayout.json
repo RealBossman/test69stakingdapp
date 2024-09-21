@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyran\\thekeksstaking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\utils\\contracts.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\contracts.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\utils\\stakingContractABI.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\stakingContractABI.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\src\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\src\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\src\\app\\thirdweb.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\thirdweb.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\src\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\src\\app\\client.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\client.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\src\\app\\chain.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\chain.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\components\\Staking.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Staking.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\components\\NFTCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\NFTCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\components\\StakeRewards.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\StakeRewards.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\components\\StakedNFTCard.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\StakedNFTCard.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyran\\thekeksstaking\\src\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\globals.css",
+              "RelativeDocumentMoniker": "src\\app\\globals.css",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\globals.css",
+              "RelativeToolTip": "src\\app\\globals.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-19T02:19:36.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stakingContractABI.ts",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\utils\\stakingContractABI.ts",
+              "RelativeDocumentMoniker": "utils\\stakingContractABI.ts",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\utils\\stakingContractABI.ts",
+              "RelativeToolTip": "utils\\stakingContractABI.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T00:36:36.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "thirdweb.ts",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\thirdweb.ts",
+              "RelativeDocumentMoniker": "src\\app\\thirdweb.ts",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\thirdweb.ts",
+              "RelativeToolTip": "src\\app\\thirdweb.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T19:36:41.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\page.tsx",
+              "RelativeDocumentMoniker": "src\\app\\page.tsx",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\page.tsx",
+              "RelativeToolTip": "src\\app\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T19:44:35.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "src\\app\\layout.tsx",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\layout.tsx",
+              "RelativeToolTip": "src\\app\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T19:38:42.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "client.ts",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\client.ts",
+              "RelativeDocumentMoniker": "src\\app\\client.ts",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\client.ts",
+              "RelativeToolTip": "src\\app\\client.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T19:16:34.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chain.ts",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\chain.ts",
+              "RelativeDocumentMoniker": "src\\app\\chain.ts",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\src\\app\\chain.ts",
+              "RelativeToolTip": "src\\app\\chain.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T20:40:27.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contracts.ts",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\utils\\contracts.ts",
+              "RelativeDocumentMoniker": "utils\\contracts.ts",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\utils\\contracts.ts",
+              "RelativeToolTip": "utils\\contracts.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T00:24:59.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Staking.tsx",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\components\\Staking.tsx",
+              "RelativeDocumentMoniker": "components\\Staking.tsx",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\components\\Staking.tsx",
+              "RelativeToolTip": "components\\Staking.tsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T00:41:12.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NFTCard.tsx",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\components\\NFTCard.tsx",
+              "RelativeDocumentMoniker": "components\\NFTCard.tsx",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\components\\NFTCard.tsx",
+              "RelativeToolTip": "components\\NFTCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T01:47:07.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StakeRewards.tsx",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\components\\StakeRewards.tsx",
+              "RelativeDocumentMoniker": "components\\StakeRewards.tsx",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\components\\StakeRewards.tsx",
+              "RelativeToolTip": "components\\StakeRewards.tsx",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T01:48:02.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StakedNFTCard.tsx",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\components\\StakedNFTCard.tsx",
+              "RelativeDocumentMoniker": "components\\StakedNFTCard.tsx",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\components\\StakedNFTCard.tsx",
+              "RelativeToolTip": "components\\StakedNFTCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T01:47:29.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Cyran\\thekeksstaking\\src\\.env",
+              "RelativeDocumentMoniker": "src\\.env",
+              "ToolTip": "C:\\Users\\Cyran\\thekeksstaking\\src\\.env",
+              "RelativeToolTip": "src\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-18T20:40:23.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
