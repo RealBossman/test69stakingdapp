@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\components",
-    "\\utils"
+    "\\src",
+    "\\src\\app"
   ],
+  "SelectedNode": "\\src\\app\\globals.css",
   "PreviewInSolutionExplorer": false
 }

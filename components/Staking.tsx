@@ -63,7 +63,7 @@ export const Staking = () => {
                 display: "flex",
                 flexDirection: "column",
                 alignItems: "center",
-                backgroundColor: "#00d9ff",
+                backgroundColor: "#ed0000",
                 borderRadius: "8px",
                 width: "500px",
                 padding: "20px",
@@ -72,40 +72,40 @@ export const Staking = () => {
                     client={client}
                     chain={chain}
                 />
-                <div style={{
-                    display: "flex",
-                    flexDirection: "row",
-                    alignItems: "center",
-                    justifyContent: "space-between",
-                    margin: "20px 0",
-                    width: "100%"
-                }}>
-                    <h2 style={{ marginRight: "20px" }}>MINT NFT to Stake</h2>
-                    <TransactionButton
-                        transaction={() => (
-                            claimTo({
-                                contract: NFT_CONTRACT,
-                                to: account?.address || "",
-                                quantity: BigInt(1)
-                            })
-                        )}
-                        onTransactionConfirmed={() => {
-                            alert("NFT claimed!");
-                            getOwnedNFTs();
-                        }}
-                        style={{
-                            fontSize: "12px",
-                            backgroundColor: "#333",
-                            color: "#fff",
-                            padding: "10px 20px",
-                            borderRadius: "10px",
-                        }}
-                    >Claim NFT</TransactionButton>
-                </div>
-                <hr style={{
-                    width: "100%",
-                    border: "1px solid #333"
-                }} />
+                {/*<div style={{*/}
+                {/*    display: "flex",*/}
+                {/*    flexDirection: "row",*/}
+                {/*    alignItems: "center",*/}
+                {/*    justifyContent: "space-between",*/}
+                {/*    margin: "20px 0",*/}
+                {/*    width: "100%"*/}
+                {/*}}>*/}
+                {/*    <h2 style={{ marginRight: "20px" }}>MINT NFT to Stake</h2>*/}
+                {/*    <TransactionButton*/}
+                {/*        transaction={() => (*/}
+                {/*            claimTo({*/}
+                {/*                contract: NFT_CONTRACT,*/}
+                {/*                to: account?.address || "",*/}
+                {/*                quantity: BigInt(1)*/}
+                {/*            })*/}
+                {/*        )}*/}
+                {/*        onTransactionConfirmed={() => {*/}
+                {/*            alert("NFT claimed!");*/}
+                {/*            getOwnedNFTs();*/}
+                {/*        }}*/}
+                {/*        style={{*/}
+                {/*            fontSize: "12px",*/}
+                {/*            backgroundColor: "#333",*/}
+                {/*            color: "#fff",*/}
+                {/*            padding: "10px 20px",*/}
+                {/*            borderRadius: "10px",*/}
+                {/*        }}*/}
+                {/*    >Claim NFT</TransactionButton>*/}
+                {/*</div>*/}
+                {/*<hr style={{*/}
+                {/*    width: "100%",*/}
+                {/*    border: "1px solid #333"*/}
+                {/*}} />*/}
                 <div style={{
                     margin: "20px 0",
                     width: "100%"

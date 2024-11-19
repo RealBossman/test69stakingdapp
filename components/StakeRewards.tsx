@@ -41,7 +41,7 @@ export const StakeRewards = () => {
             {!isTokenBalanceLoading && (
                 <p>Wallet Balance: {toEther(BigInt(tokenBalance!.toString()))}</p>
             )}
-            <h2 style={{ marginBottom: "20px" }}>Salute Rewards: {stakedInfo && toEther(BigInt(stakedInfo[1].toString()))}</h2>
+            <h2 style={{ marginBottom: "20px" }}>$69 Rewards: {stakedInfo && toEther(BigInt(stakedInfo[1].toString()))}</h2>
             <TransactionButton
                 transaction={() => (
                     prepareContractCall({

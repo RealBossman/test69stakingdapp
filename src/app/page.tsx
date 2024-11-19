@@ -12,7 +12,7 @@ export default function Home() {
             margin: "20px auto",
             width: "500px",
         }}>
-            <h1>Salute NFT Staking</h1>
+            <h1>69 FLIGHT PASS STAKING</h1>
             <ConnectEmbed
                 client={client}
                 chain={chain}
