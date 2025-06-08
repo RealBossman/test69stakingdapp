@@ -31,13 +31,6 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-body {
-  background-image: url('https://ibb.co/N2HWcydf');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
 /* Reset defaults */
 * {
   box-sizing: border-box;
