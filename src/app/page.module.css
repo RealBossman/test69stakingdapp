@@ -6,6 +6,9 @@
   --button-primary-hover: #383838;
   --button-secondary-hover: #f2f2f2;
 
+  --foreground: #0f172a;
+  --background: #ffffff;
+
   display: grid;
   grid-template-rows: 20px 1fr 20px;
   align-items: center;
@@ -13,7 +16,9 @@
   min-height: 100svh;
   padding: 80px;
   gap: 64px;
-  font-family: var(--font-geist-sans);
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background-color: var(--background);
+  color: var(--foreground);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -24,6 +29,9 @@
 
     --button-primary-hover: #ccc;
     --button-secondary-hover: #1a1a1a;
+
+    --foreground: #f8fafc;
+    --background: #0f172a;
   }
 }
 
@@ -32,10 +40,39 @@
   flex-direction: column;
   gap: 32px;
   grid-row-start: 2;
+  max-width: 42rem;
+  width: 100%;
+}
+
+.main .header-section {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.main .header-section h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 2.5rem;
+  letter-spacing: -0.025em;
+  margin: 0;
+}
+
+.main .header-section p {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #64748b;
+  margin: 1rem 0 0 0;
+}
+
+.main .content-section h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 2rem;
+  margin: 0 0 1.5rem 0;
 }
 
 .main ol {
-  font-family: var(--font-geist-mono);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   padding-left: 0;
   margin: 0;
   font-size: 14px;
@@ -54,11 +91,13 @@
   padding: 2px 4px;
   border-radius: 4px;
   font-weight: 600;
+  font-size: 12px;
 }
 
 .ctas {
   display: flex;
   gap: 16px;
+  justify-content: center;
 }
 
 .ctas a {
@@ -76,6 +115,8 @@
   font-size: 16px;
   line-height: 20px;
   font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
 }
 
 a.primary {
@@ -85,6 +126,8 @@ a.primary {
 }
 
 a.secondary {
+  background: var(--background);
+  color: var(--foreground);
   border-color: var(--gray-alpha-200);
   min-width: 180px;
 }
@@ -93,16 +136,24 @@ a.secondary {
   grid-row-start: 3;
   display: flex;
   gap: 24px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .footer a {
   display: flex;
   align-items: center;
   gap: 8px;
+  color: var(--foreground);
+  text-decoration: none;
+  transition: text-decoration 0.15s ease;
 }
 
 .footer img {
   flex-shrink: 0;
+  width: 16px;
+  height: 16px;
 }
 
 /* Enable hover only on non-touch devices */
@@ -161,5 +212,13 @@ a.secondary {
 @media (prefers-color-scheme: dark) {
   .logo {
     filter: invert();
+  }
+  
+  .footer img.invert {
+    filter: invert();
+  }
+  
+  .main .header-section p {
+    color: #94a3b8;
   }
 }
